@@ -3,20 +3,21 @@ import PostBox from "../../components/Home/PostBox"
 
 export const getServerSideProps = async (context) => {
 
-    let {id} = context.params;
+    const { req, params } = context;
+    const host = req.headers.host;
+    let {id} = params;
     
     if(id > 10) {
         id = Math.ceil(Math.random() * 9) + 1;
     }
 
-    const res = await fetch('http://localhost:3000/api/' + id);
+    const res = await fetch(`http://${host}/api/${id}`);
     const data = await res.json();
 
     return {
         props: { data }
     }
 }
-
 
 const Details = ({ data }) => {
 

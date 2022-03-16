@@ -2,11 +2,15 @@ import Head from "next/head";
 import Slider from "../components/Slider/Slider";
 import HomeContainer from '../components/Home/HomeContainer';
 
-export const getServerSideProps = async ({query}) => {
 
+export const getServerSideProps = async (context) => {
+
+    const { req, query } = context;
     const {page = 1} = query;
 
-    const res = await fetch(`http://localhost:3000/api?page=${page}`);
+    const host = req ? req.headers.host : '';
+
+    const res = await fetch(`http://${host}/api?page=${page}`);
     const data = await res.json();
 
     return {

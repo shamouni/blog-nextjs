@@ -1,0 +1,291 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Inception",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 82,
+            "actors": [
+                "Eva Ariel Binder",
+                "James Sie",
+                "Tucker Chandler"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "The USA",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        },
+        {
+            "id": 2,
+            "title": "Metal Gear Solid",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 82,
+            "actors": [
+                "Tom Cruse",
+                "John Kings"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "The USA",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        },
+        {
+            "id": 3,
+            "title": "Inception",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 82,
+            "actors": [
+                "Tom Cruse",
+                "John Kings"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "The USA",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        },
+        {
+            "id": 4,
+            "title": "Lost",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 82,
+            "actors": [
+                "Tom Cruse",
+                "John Kings"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "The USA",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        },
+        {
+            "id": 5,
+            "title": "The story of a writter",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 82,
+            "actors": [
+                "Tom Cruse",
+                "John Kings"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "The USA",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        },
+        {
+            "id": 6,
+            "title": "Hello my friend",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 82,
+            "actors": [
+                "Tom Cruse",
+                "John Kings"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "The USA",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        },
+        {
+            "id": 7,
+            "title": "New Movie",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 71,
+            "actors": [
+                "Tom Cruse",
+                "John Kings"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "The USA",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        },
+        {
+            "id": 8,
+            "title": "Hello Today",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 92,
+            "actors": [
+                "Tom Cruse",
+                "John Kings"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "Germany",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        },
+        {
+            "id": 9,
+            "title": "Hello a news title",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 82,
+            "actors": [
+                "Tom Cruse",
+                "John Kings"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "The USA",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        },
+        {
+            "id": 10,
+            "title": "How was that?",
+            "genre": [
+                "comedy",
+                "action"
+            ],
+            "satisfied": 82,
+            "actors": [
+                "Tom Cruse",
+                "John Kings"
+            ],
+            "director": "Ivan Tony",
+            "year": 2020,
+            "country": "The USA",
+            "imdb": 4.2,
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit provident veritatis ab debitis nostrum nam. Veritatis blanditiis sequi quod unde aliquam in quaerat eligendi? Obcaecati quia inventore culpa voluptatem! Delectus?"
+        }
+    ],
+    "features": [
+        { "id": 11, "title": "Sample Title News" },
+        { "id": 12, "title": "Hello News" },
+        { "id": 13, "title": "Top Goals" },
+        { "id": 14, "title": "Bayern Munich" }
+    ],
+    "trends": [
+        { "id": 15, "title": "Sample Title News" },
+        { "id": 16, "title": "Hello News" },
+        { "id": 17, "title": "Top Goals" },
+        { "id": 18, "title": "Bayern Munich" },
+        { "id": 19, "title": "Sample Title News" },
+        { "id": 20, "title": "Top Goals" }
+    ],
+    "sliders": [
+        {
+            "id": 1,
+            "title": "Bastian schweinsteiger top 10 goals",
+            "desc":"The achievements overview lists all titles a player has won, and the date of won them",
+            "category": "Sport",
+            "color": "red",
+            "box": "large"
+        },
+        {
+            "id": 2,
+            "title": "Barcelona vs Real Madrid 3-2",
+            "video": "mesi.mp4",
+            "category": "Sport",
+            "color": "red",
+            "box": "large"
+        },
+        {
+            "id": 0,
+            "title": "How to arrange flowers step by step",
+            "desc":"Many beautiful and inspiring quotes have been created about flowers over the years. We have collected 55 of them and paired the majority of quotes with matching photography",
+            "category": "Live",
+            "color": "blue",
+            "box": "large"
+        },
+        {
+            "id": 3,
+            "title": "You do not need to be rich to travel",
+            "category": "Travel",
+            "color": "green",
+            "box": "small-1"
+        },
+        {
+            "id": 4,
+            "title": "10 Apple gadgets you should buy",
+            "category": "Technology",
+            "color": "sky",
+            "box": "small-1"
+        },
+        {
+            "id": 5,
+            "title": "What do you need to press the pause button?", 
+            "category": "Live",
+            "color": "blue",
+            "box": "small-2"
+        },
+        {
+            "id": 6,
+            "title": "Audi R8 Driving Experiences",
+            "category": "Car",
+            "color": "green",
+            "box": "small-2"
+        },
+        {
+            "id": 7,
+            "title": "Every thing about dogs and puppies",
+            "category": "Animals",
+            "color": "pink",
+            "box": "small-3"
+        },
+        {
+            "id": 8,
+            "title": "What makes a good friend?",
+            "category": "Live",
+            "color": "blue",
+            "box": "small-3"
+        },
+        {
+            "id": 9,
+            "title": "What is the new iPhone Pro Max?",
+            "category": "technology",
+            "color": "sky",
+            "box": "small-4"
+        },
+        {
+            "id": 10,
+            "title": "Ride a motorcycle",
+            "category": "sport",
+            "color": "red",
+            "box": "small-4"
+        }
+    ]
+}

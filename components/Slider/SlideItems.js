@@ -9,7 +9,7 @@ const SlideItems = ({items = [], order, box = "small"}) => {
 
 
     return (
-        <div id={id} className={`carousel slide ${cls}`} data-order={order} data-interval="3000">
+        <div id={id} className={`carousel slide ${cls}`} data-order={order} data-interval="3500">
             <div className="carousel-inner" role="listbox">
                 {items.map((i, k) => <Slide data={i} box={box} width={width} height={height} k={k} key={i.id} />)}
             </div>

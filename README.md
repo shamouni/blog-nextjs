@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Visit Online - Website UR
-[https://blog-nextjs-shamouni.vercel.app]
+## Visit Online - Website URL
+https://blog-nextjs-shamouni.vercel.app
 
 ## Getting Started
 

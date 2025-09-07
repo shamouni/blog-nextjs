@@ -1,9 +1,9 @@
 import { render, screen } from "@testing-library/react";
-import Posts from "..";
+import Posts from "@/pages/posts/index";
 import { TPost } from "@/components/Home/types";
 
 // Mock PostsList to render the posts' titles
-jest.mock("../../../components/Home/PostsList", () => ({
+jest.mock("../components/Home/PostsList", () => ({
   __esModule: true,
   default: ({ posts, trends }: { posts: TPost[]; trends: TPost[] }) => (
     <div>

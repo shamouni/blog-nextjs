@@ -1,7 +1,7 @@
 import { render, screen } from "@testing-library/react";
-import Details from "../[id]";
+import Details from "@/pages/posts/[id]";
 
-jest.mock("../../../components/Home/SinglePost", () => ({
+jest.mock("../components/Home/SinglePost", () => ({
   __esModule: true,
   default: ({ post, relatedPosts }: any) => (
     <div>

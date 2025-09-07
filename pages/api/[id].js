@@ -1,13 +1,11 @@
-import dataMock from './data-mock.json';
+import dataMock from "./data-mock.json";
 
 export default (req, res) => {
-
   const { id } = req.query;
   const { posts, trends } = dataMock;
-  const post = posts.find(i => i.id == id);
+  const post = posts.find((i) => i.id == id);
 
-  if(post) {
-
+  if (post) {
     post.summary = `Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, 
       temporibus soluta reiciendis itaque voluptate amet alias quidem sed molestiae 
       dignissimos voluptas deleniti hic ipsa, illo, rerum ullam. Natus, assumenda nobis.`;
@@ -19,4 +17,4 @@ export default (req, res) => {
 
   res.statusCode = 200;
   res.json({ post, related: trends });
-}
+};
